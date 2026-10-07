@@ -12,4 +12,3 @@ local.properties
 /app/libs/
 /service-account-credentials.json
 /CLAUDE.md
-/.claude/

@@ -19,6 +19,7 @@ dependencyResolutionManagement {
         maven { url = uri("https://api.xposed.info/") }
     }
 }
+
 rootProject.name = "sing-box"
 include(":app")
 include(":libxposed-api")
